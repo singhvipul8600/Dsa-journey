@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/singhvipul8600/Dsa-journey/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/singhvipul8600/Dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/singhvipul8600/Dsa-journey/tree/master/0933-number-of-recent-calls) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/singhvipul8600/Dsa-journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/singhvipul8600/Dsa-journey/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/singhvipul8600/Dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/singhvipul8600/Dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhvipul8600/Dsa-journey/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/singhvipul8600/Dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/singhvipul8600/Dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhvipul8600/Dsa-journey/tree/master/0001-two-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

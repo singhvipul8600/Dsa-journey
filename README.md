@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhvipul8600/Dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/singhvipul8600/Dsa-journey/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/singhvipul8600/Dsa-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/singhvipul8600/Dsa-journey/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/singhvipul8600/Dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhvipul8600/Dsa-journey/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/singhvipul8600/Dsa-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/singhvipul8600/Dsa-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |

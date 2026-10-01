@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/singhvipul8600/Dsa-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/singhvipul8600/Dsa-journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/singhvipul8600/Dsa-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0328-odd-even-linked-list](https://github.com/singhvipul8600/Dsa-journey/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |

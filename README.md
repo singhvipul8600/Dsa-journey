@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/singhvipul8600/Dsa-journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/singhvipul8600/Dsa-journey/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/singhvipul8600/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhvipul8600/Dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/singhvipul8600/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/singhvipul8600/Dsa-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/singhvipul8600/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/singhvipul8600/Dsa-journey/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/singhvipul8600/Dsa-journey/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/singhvipul8600/Dsa-journey/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

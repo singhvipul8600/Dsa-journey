@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/singhvipul8600/Dsa-journey/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/singhvipul8600/Dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/singhvipul8600/Dsa-journey/tree/master/1207-unique-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/singhvipul8600/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/singhvipul8600/Dsa-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/singhvipul8600/Dsa-journey/tree/master/0283-move-zeroes) |
+| [1207-unique-number-of-occurrences](https://github.com/singhvipul8600/Dsa-journey/tree/master/1207-unique-number-of-occurrences) |
 ## Backtracking
 |  |
 | ------- |

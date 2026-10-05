@@ -111,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/singhvipul8600/Dsa-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/singhvipul8600/Dsa-journey/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/singhvipul8600/Dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/singhvipul8600/Dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/singhvipul8600/Dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/singhvipul8600/Dsa-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
